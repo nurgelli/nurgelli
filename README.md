@@ -1,17 +1,17 @@
-# 👋 Hi there! I'm nurgelli
+#  Hi there! I'm nurgelli
 
 I'm a **Python Backend Developer** and a passionate **Data Science & NLP** learner.  
 Also a teacher, explorer, and lifelong student.
 
-## 💻 What I'm Working On
+##  What I'm Working On
 
-- 🔧 Building Django-based eCommerce for private copmany
-- 🧠 Learning Docker, Linux, and DevOps (Ubuntu gang 💻)
-- 📊 Exploring Data Science, ML, NLP from scratch
-- 🧑‍🏫 Teaching Python - Django - EDA - DevOps
+-  Building Django-based eCommerce for private copmany
+-  Learning Docker, Linux, and DevOps (Ubuntu gang 💻)
+-  Exploring Data Science, ML, NLP from scratch
+-  Teaching Python - Django - EDA - DevOps
 
 
-## 🚀 My Tech Stack
+##  My Tech Stack
 
 ### - Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
