@@ -1,4 +1,4 @@
-#  Hi there! I'm nurgelli
+#  Hi there! I'm Nurgeldi
 
 I'm a **Python Backend Developer** and a passionate **Data Science & NLP** learner.  
 Also a teacher, explorer, and lifelong student.
