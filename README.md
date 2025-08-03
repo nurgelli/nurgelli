@@ -5,7 +5,7 @@ Also a teacher, explorer, and lifelong student.
 
 ##  What I'm Working On
 
--  Building Django-based eCommerce for private copmany
+-  Building FastAPI based eCommerce for private copmany
 -  Learning Docker, Linux, and DevOps (Ubuntu)
 -  Exploring Data Science, ML, NLP from scratch
 -  Teaching Python - Django - EDA - DevOps
