@@ -21,7 +21,7 @@ Also a teacher, explorer, and lifelong student.
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-464646?logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/-Pydantic-464646?logo=pydantic&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-464646?logo=pydantic&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
