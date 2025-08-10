@@ -6,15 +6,16 @@ Also a teacher, explorer, and lifelong student.
 ##  What I'm Working On
 
 -  Building FastAPI based eCommerce for private copmany
--  Learning Docker, Linux, and DevOps (Ubuntu)
--  Exploring Data Science, ML, NLP from scratch
--  Teaching Python - Django - EDA - DevOps
+-  Learning Docker, Linux, GitHub Actions, and DevOps (Ubuntu)
+-  Exploring Data Science, ML, AI
+-  Focusing on Microservices, Scalable Architectures
 
 
 ##  My Tech Stack
 
 ### - Backend
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
