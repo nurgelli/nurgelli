@@ -1,11 +1,12 @@
 #  Hi there! I'm Nurgeldi
 
-I'm a **Python Backend Developer** and a passionate **Data Science & NLP** learner.  
-Also a teacher, explorer, and lifelong student.
+I'm a *Backend Developer* in ** Python and GO** programming languages and a passionate **Data Science & NLP** learner.  
+Also explorer and lifelong student.
 
 ##  What I'm Working On
 
 -  Building FastAPI based eCommerce for private copmany
+-  Diving into GO concurrency and channels (goroutines)
 -  Learning Docker, Linux, GitHub Actions, and DevOps (Ubuntu)
 -  Exploring Data Science, ML, AI
 -  Focusing on Microservices, Scalable Architectures
@@ -15,6 +16,7 @@ Also a teacher, explorer, and lifelong student.
 
 ### - Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
