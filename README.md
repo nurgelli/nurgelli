@@ -20,25 +20,19 @@ Also explorer and lifelong student.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-464D46?logo=pydantic&logoColor=pink)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-464646?logo=sqlalchemy&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
 ### - DevOps & Automation
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Pylint](https://img.shields.io/badge/-Pylint-FF4088?logo=python&logoColor=white)
 ![Automation](https://img.shields.io/badge/-Python%20Automation-3776AB?logo=python&logoColor=white)
@@ -46,7 +40,6 @@ Also explorer and lifelong student.
 ---
 ### - SQL Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ---
@@ -57,7 +50,6 @@ Also explorer and lifelong student.
 
 ---
 ### - Machine Learning (Learning Path)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
