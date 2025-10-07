@@ -5,27 +5,36 @@ Also explorer and lifelong student.
 
 ##  What I'm Working On
 
--  Building FastAPI based eCommerce for private copmany
--  Diving into GO concurrency and channels (goroutines)
--  Learning Docker, Linux, GitHub Actions, and DevOps (Ubuntu)
--  Exploring Data Science, ML, AI
--  Focusing on Microservices, Scalable Architectures
+-  Building FastAPI API project with React 
+-  Focusing on Docker, Linux, GitHub Actions for DevOps
+-  Grasping Microservices, Scalable Architectures with Clean Codes
 
 
 ##  My Tech Stack
 
 ### - Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-464D46?logo=pydantic&logoColor=pink)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-464646?logo=sqlalchemy&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+
+### - Developing tools & Docs
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+
+### - Caching & Message brokers
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+
 
 ---
 ### - DevOps & Automation
