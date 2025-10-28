@@ -55,16 +55,6 @@ Also explorer and lifelong student.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
----
-### - Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-
----
-### - Machine Learning (Learning Path)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ---
 ### - Methods & Workflow
