@@ -1,23 +1,34 @@
 #  Hi there! I'm Nurgeldi
 
-I'm a *Backend Developer* in ** Python and NodeJS** programming languages and a passionate **DevOps** learner.  
+I'm a *Backend Developer* in ** Python and Java** programming languages and a passionate **DevOps** learner.  
 Also explorer and lifelong student.
 
 ##  What I'm Working On
 
--  Building FastAPI API project with React 
+-  Building FastAPI API project with React/Next
 -  Focusing on Docker, Linux, GitHub Actions for DevOps
 -  Grasping Microservices, Scalable Architectures with Clean Codes
 
 
 ##  My Tech Stack
 
-### - Backend
+### - Backend with Java
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)
+
+### - Backend with Python
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-464D46?logo=pydantic&logoColor=pink)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-464646?logo=sqlalchemy&logoColor=white)
+
+### - Backend with JS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
