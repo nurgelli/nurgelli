@@ -59,6 +59,9 @@ Also explorer and lifelong student.
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Pylint](https://img.shields.io/badge/-Pylint-FF4088?logo=python&logoColor=white)
 ![Automation](https://img.shields.io/badge/-Python%20Automation-3776AB?logo=python&logoColor=white)
+[![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/)
+[![GitLab Pipeline Status](https://gitlab.com/USERNAME/PROJECTNAME/badges/main/pipeline.svg)](https://gitlab.com/USERNAME/PROJECTNAME/-/pipelines)
+
 
 ---
 ### - SQL Databases
