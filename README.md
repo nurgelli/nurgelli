@@ -12,13 +12,12 @@ Also explorer and lifelong student.
 
 ##  My Tech Stack
 
-### - Backend with Java
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)
+### - Backend with Go
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-008ECF?logo=go&logoColor=white)
+![Golang%20Modules](https://img.shields.io/badge/-Go%20Modules-00ADD8?logo=go&logoColor=white)
+![Wire](https://img.shields.io/badge/-Google%20Wire-4285F4?logo=google&logoColor=white)
+![GORM](https://img.shields.io/badge/-GORM-8A2BE2?logo=go&logoColor=white)
 
 ### - Backend with Python
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
@@ -27,7 +26,7 @@ Also explorer and lifelong student.
 ![Pydantic](https://img.shields.io/badge/-Pydantic-464D46?logo=pydantic&logoColor=pink)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-464646?logo=sqlalchemy&logoColor=white)
 
-### - Backend with JS
+### - Backend with Js/Ts
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
@@ -35,6 +34,15 @@ Also explorer and lifelong student.
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
+### - Frontend With React
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-443742?logo=react&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 
 
