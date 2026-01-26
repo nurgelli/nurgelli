@@ -1,6 +1,6 @@
-#  Hi there! I'm Nurgeldi
+#  Greetings from Nurgeldi!
 
-I'm a *Backend Developer* in ** Python | JS | Go ** programming languages and a passionate **DevOps** learner.  
+I'm a *Backend Developer* in ** Python | Go | Js ** programming languages and a passionate **DevOps** learner.  
 Also explorer and lifelong student.
 
 ##  What I'm Working On
