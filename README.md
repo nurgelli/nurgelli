@@ -14,10 +14,8 @@ Also explorer and lifelong student.
 
 ### - Backend with Go
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-008ECF?logo=go&logoColor=white)
 ![Golang%20Modules](https://img.shields.io/badge/-Go%20Modules-00ADD8?logo=go&logoColor=white)
 ![Wire](https://img.shields.io/badge/-Google%20Wire-4285F4?logo=google&logoColor=white)
-![GORM](https://img.shields.io/badge/-GORM-8A2BE2?logo=go&logoColor=white)
 
 ### - Backend with Python
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
