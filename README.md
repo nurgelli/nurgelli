@@ -36,10 +36,3 @@ Still learning. Probably always will be.
 - 🤝 Open to conversations about data, systems, or anything in between
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nurgelli&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurgelli&layout=compact&theme=tokyonight" />
-</p>
