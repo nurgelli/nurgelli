@@ -1,6 +1,6 @@
 # Nurgeldi Tuvakov
 
-Backend Engineer • Data Analyst • Industrial IoT
+Backend Engineer • Data Analyst • IoT
 
 Building systems that collect, process, and analyze industrial data.
 
